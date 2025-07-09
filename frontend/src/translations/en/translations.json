@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Welcome to the home page!",
+    "description": "Backend: Nest.js + Prisma + SQLite, Frontend: Next.js + TypeScript"
+  },
+  "about": {
+    "title": "About us",
+    "description": "This is the about page."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Get in touch with us."
+  }
+}

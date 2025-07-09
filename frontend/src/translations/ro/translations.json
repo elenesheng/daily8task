@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Bine ai venit pe pagina principală!",
+    "description": "Backend: Nest.js + Prisma + SQLite, Frontend: Next.js + TypeScript"
+  },
+  "about": {
+    "title": "Despre noi",
+    "description": "Aceasta este pagina despre."
+  },
+  "contact": {
+    "title": "Contactează-ne",
+    "description": "Ia legătura cu noi."
+  }
+}
